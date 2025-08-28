@@ -1,0 +1,25 @@
+==================================================
+Classification Evaluation Metrics
+==================================================
+Accuracy: 0.9576
+Weighted Precision: 0.9577
+Weighted Recall: 0.9576
+Weighted F1-Score: 0.9575
+
+Confusion Matrix:
+[[21708   301   149]
+ [  553 11084   145]
+ [  490   100  6503]]
+
+Complete Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.98      0.97     22158
+           1       0.97      0.94      0.95     11782
+           2       0.96      0.92      0.94      7093
+
+    accuracy                           0.96     41033
+   macro avg       0.96      0.95      0.95     41033
+weighted avg       0.96      0.96      0.96     41033
+
+==================================================
